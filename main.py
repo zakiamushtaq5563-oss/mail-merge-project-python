@@ -11,7 +11,7 @@
 #     letter = open(f"./output/readytosend/{name}"+"_letter.docx",mode="w")
 #     letter.write(x)
     
-    
+    print("its okay no problem")
 #     letter.close()
 
 # file.close()
